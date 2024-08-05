@@ -1,0 +1,61 @@
+body {
+    
+}
+
+#banner {
+    width:100%;
+}
+
+.principal{
+    background: hsl(128, 43%, 75%);
+    padding: 30px;
+}
+
+h1 {
+    text-align: center
+}
+
+p {
+    text-align: center;
+}
+
+#missao {
+    font-size: 20px
+}
+
+em strong {
+    color: #0c4932;
+}
+
+.itens {
+    font-style: italic
+}
+
+.beneficios {
+    background: hsl(128, 43%, 75%);
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagembeneficios {
+    width: 50%;
+}
+.rodape{
+    background-color:hsl(128, 43%, 75%) ;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 100px;
+    padding: 40px 0;
+   
+}
