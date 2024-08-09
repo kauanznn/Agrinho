@@ -1,6 +1,3 @@
-body {
-    
-}
 
 #banner {
     width:100%;
@@ -46,6 +43,12 @@ ul {
     margin-right: 15%;
 }
 
+.imagem-logo{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
 .imagembeneficios {
     width: 50%;
 }
@@ -58,4 +61,8 @@ ul {
     height: 100px;
     padding: 40px 0;
    
+}
+#logo{
+    text-align: center;
+    justify-content: center;
 }
